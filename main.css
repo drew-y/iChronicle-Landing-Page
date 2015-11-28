@@ -42,7 +42,7 @@ body {
 .main {
     top: 45%;
     position: absolute;
-    height: 100%;
+    height: auto;
     width: 100vw;
 }
 
